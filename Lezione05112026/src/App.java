@@ -26,7 +26,6 @@ public class App {
         for(int i = 0; i < studenti.length; i++) {
             System.out.println(studenti[i].toString());
         }
-
-
+        sc.close();
     }
 }
